@@ -1,1 +1,1 @@
-# c_for_beginner
+Project for Beginner
